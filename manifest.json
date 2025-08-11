@@ -1,0 +1,18 @@
+{
+  "short_name": "Pawn's Gambit",
+  "name": "Pawn's Gambit: A Roguelike Chess Adventure",
+  "description": "A roguelike chess adventure where you capture pieces for gold and purchase powerful pawns.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
